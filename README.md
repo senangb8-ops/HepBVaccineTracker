@@ -7,7 +7,7 @@ schedules (default: 0, 1, 4, 6 months) across multiple patients at once.
 
 ## Live version
 
-👉 [Open the tracker](https://github.com/senangb8-ops/HepBVaccineTracker.git)
+👉 [Open the tracker](https://senangb8-ops.github.io/HepBVaccineTracker/)
 
 ## Features
 
