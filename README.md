@@ -3,7 +3,7 @@ Track Hep B Vaccine for ESRF with .ics &amp; pdf generator
 # Hep B Vaccine Tracker — Multi-Patient
 
 A simple, offline-friendly web tool for tracking full-dose Hepatitis B vaccine
-schedules (default: 0, 1, 4, 6 months) across multiple patients at once.
+schedules (default: 0, 1, 2, 6 months) across multiple patients at once.
 
 ## Live version
 
@@ -13,7 +13,7 @@ schedules (default: 0, 1, 4, 6 months) across multiple patients at once.
 
 - **Multi-patient tracking** — add as many patients as needed, each with their
   own Dose 1 date
-- **Editable schedule intervals** — defaults to 0/1/4/6 months, adjustable for
+- **Editable schedule intervals** — defaults to 0/1/2/6 months, adjustable for
   facilities using a different protocol
 - **Status at a glance** — each dose is flagged as upcoming, due today, or
   past due
@@ -28,7 +28,7 @@ schedules (default: 0, 1, 4, 6 months) across multiple patients at once.
 
 ## How it works
 
-1. Set the reminder time and schedule intervals (or leave the 0/1/4/6-month
+1. Set the reminder time and schedule intervals (or leave the 0/1/2/6-month
    default).
 2. Add each patient's name and Dose 1 date.
 3. Click **Generate schedules** to see every patient's dose dates and
